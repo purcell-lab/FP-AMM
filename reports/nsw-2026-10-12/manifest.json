@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://nemweb.com.au/Reports/ARCHIVE/PredispatchIS_Reports/PUBLIC_PREDISPATCHIS_20261011_20261017.zip",
+    "https://nemweb.com.au/Reports/ARCHIVE/DispatchIS_Reports/PUBLIC_DISPATCHIS_20261012.zip",
+    "https://nemweb.com.au/Reports/ARCHIVE/DispatchIS_Reports/PUBLIC_DISPATCHIS_20261013.zip",
+    "https://nemweb.com.au/Reports/CURRENT/Next_Day_Dispatch/PUBLIC_NEXT_DAY_DISPATCH_20261012_0000000542594175.zip"
+  ],
+  "snapshot": "PUBLIC_PREDISPATCHIS_202610111300_20261011123238.zip",
+  "header": [
+    "C",
+    "NEMP.WORLD",
+    "PREDISPATCHIS",
+    "AEMO",
+    "PUBLIC",
+    "2026/10/11",
+    "12:32:38",
+    "0000000542310781",
+    "PREDISPATCHIS",
+    "0000000542310775"
+  ],
+  "member_zip_sha256": "2169321fe3f3306fb489ceba722daf6ddd9e643a76eeab80f699d573ae859a02",
+  "generated_aest": "2026-10-11 12:32:38",
+  "archive_member_timestamp": "2026-10-11 12:33:04",
+  "next_generated_aest": "2026-10-11 13:02:38",
+  "cutoff_aest": "2026-10-11 13:00:00",
+  "book_sha256": "369a3aebe6805133a047d286f87fbe257dbfca3783263b52c99916645ab12080"
+}

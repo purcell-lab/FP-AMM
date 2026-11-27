@@ -2,6 +2,8 @@
 
 Two research simulations ask who receives discretionary flexibility when requests exceed an assumed MW limit. August 2025 AEMO data describe the market backdrop; the queues, tiers, service limits and allocations are modelled. Neither study changes wholesale dispatch, calculates local settlement prices or measures household curtailment.
 
+**NSW day-ahead case study:** [Two sides of one constraint: 12 October 2026](reports/nsw-2026-10-12/README.md) tests a different question: could a public, cutoff-controlled forecast identify a two-sided flexibility enquiry? The book flagged 23 half-hours and cleared 0 firm MW. Includes a [one-page infographic](reports/nsw-2026-10-12/one-page-infographic.png), [case replay code](reports/nsw-2026-10-12/replay.py), Sydney and Canberra perspectives, a NEMDE comparison and a community-hub design informed by [Power of the Many](https://powerofthemany.org/).
+
 | Study | Question | Result |
 |---|---|---|
 | [Five NEM regions: method and results](reports/five-regions.md) | Does giving previously underserved regions greater sampling weight change allocation? | In the archived run, the lowest regional service ratio rose by 0.064 percentage points. The pooled model does not establish that power could be transferred between regions. |
