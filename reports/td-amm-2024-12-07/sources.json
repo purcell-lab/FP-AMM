@@ -1,0 +1,22 @@
+{
+  "DISPATCHPRICE": {
+    "url": "https://nemweb.com.au/Data_Archive/Wholesale_Electricity/MMSDM/2024/MMSDM_2024_12/MMSDM_Historical_Data_SQLLoader/DATA/PUBLIC_ARCHIVE%23DISPATCHPRICE%23FILE01%23202412010000.zip",
+    "sha256": "5602df252a1f4768925b0445b6b2a2960fb236fa785ce329c310d8237a503945"
+  },
+  "DISPATCH_LOCAL_PRICE": {
+    "url": "https://nemweb.com.au/Data_Archive/Wholesale_Electricity/MMSDM/2024/MMSDM_2024_12/MMSDM_Historical_Data_SQLLoader/DATA/PUBLIC_ARCHIVE%23DISPATCH_LOCAL_PRICE%23FILE01%23202412010000.zip",
+    "sha256": "a85bc94d5f451c064606f751529a9ad25460ffdf3ac06e2113d34234d13b4a13"
+  },
+  "DISPATCHINTERCONNECTORRES": {
+    "url": "https://nemweb.com.au/Data_Archive/Wholesale_Electricity/MMSDM/2024/MMSDM_2024_12/MMSDM_Historical_Data_SQLLoader/DATA/PUBLIC_ARCHIVE%23DISPATCHINTERCONNECTORRES%23FILE01%23202412010000.zip",
+    "sha256": "b3d9feca1d7f4f6c230738240a2619f8413d6943805f728c88bb7f93cee83cf2"
+  },
+  "energex": {
+    "url": "https://www.energex.com.au/__data/assets/file/0010/1728325/Energex-Network-Substation-Load-Data-2024-25.zip",
+    "sha256": "e9a7587c81e5d7b10ee52472b2e0fe7a5bf3d605b480d4157276c6420725e1f2"
+  },
+  "essential": {
+    "url": "https://www.essentialenergy.com.au/ext/schools/EE-Zone-Substation-Load-Data-2024-25.zip",
+    "sha256": "73887acfd38ed4dc22162c776995d473ca006aa78764240157e906b1d5195f1a"
+  }
+}

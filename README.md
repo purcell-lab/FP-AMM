@@ -2,6 +2,8 @@
 
 Two research simulations ask who receives discretionary flexibility when requests exceed an assumed MW limit. August 2025 AEMO data describe the market backdrop; the queues, tiers, service limits and allocations are modelled. Neither study changes wholesale dispatch, calculates local settlement prices or measures household curtailment.
 
+**Transmission and distribution pricing experiment:** [Palmwoods Central and Trundle, 7 December 2024](reports/td-amm-2024-12-07/README.md) joins measured zone loads to NEMWEB QNI flow limits, forms independent AMM shadow prices and compares them with RRP and generator local prices. The frozen schedules exceeded the reconstructed limits in 16 and 4 half-hours respectively. The folder includes the input and price charts, process and data flows, consumer and asset cash flows, and an offline replay.
+
 **NSW day-ahead case study:** [Two sides of one constraint: 12 October 2026](reports/nsw-2026-10-12/README.md) tests a different question: could a public, cutoff-controlled forecast identify a two-sided flexibility enquiry? The book flagged 23 half-hours and cleared 0 firm MW. Includes a [one-page infographic](reports/nsw-2026-10-12/one-page-infographic.png), [case replay code](reports/nsw-2026-10-12/replay.py), Sydney and Canberra perspectives, a NEMDE comparison and a community-hub design informed by [Power of the Many](https://powerofthemany.org/).
 
 | Study | Question | Result |

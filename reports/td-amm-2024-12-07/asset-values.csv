@@ -1,0 +1,25 @@
+site,asset,schedule,valuation,import_MWh,export_MWh,net_AUD
+Palmwoods Central,solar strip,fixed,frozen_AMM,0.00000000,6.00000000,322.05882354
+Palmwoods Central,solar strip,fixed,RRP,0.00000000,6.00000000,74.44769249
+Palmwoods Central,solar strip,fixed,DUID,0.00000000,6.00000000,-486.10397417
+Palmwoods Central,battery,frozen_AMM,frozen_AMM,5.69209979,5.12288981,469.43930728
+Palmwoods Central,battery,frozen_AMM,RRP,5.69209979,5.12288981,621.62651931
+Palmwoods Central,battery,frozen_AMM,DUID,5.69209979,5.12288981,803.84419619
+Palmwoods Central,battery,RRP,frozen_AMM,6.32455532,5.69209979,111.87537386
+Palmwoods Central,battery,RRP,RRP,6.32455532,5.69209979,1011.25022055
+Palmwoods Central,battery,RRP,DUID,6.32455532,5.69209979,949.89167748
+Palmwoods Central,battery,DUID,frozen_AMM,5.37587202,4.83828482,211.03209558
+Palmwoods Central,battery,DUID,RRP,5.37587202,4.83828482,896.81765409
+Palmwoods Central,battery,DUID,DUID,5.37587202,4.83828482,1093.25193873
+Trundle,solar strip,fixed,frozen_AMM,0.00000000,6.00000000,322.05882354
+Trundle,solar strip,fixed,RRP,0.00000000,6.00000000,174.13530501
+Trundle,solar strip,fixed,DUID,0.00000000,6.00000000,-2445.80969500
+Trundle,battery,frozen_AMM,frozen_AMM,3.68932394,3.32039154,372.35245932
+Trundle,battery,frozen_AMM,RRP,3.68932394,3.32039154,487.55797469
+Trundle,battery,frozen_AMM,DUID,3.68932394,3.32039154,545.19399869
+Trundle,battery,RRP,frozen_AMM,6.27185069,5.64466562,-16.55227302
+Trundle,battery,RRP,RRP,6.27185069,5.64466562,948.72150320
+Trundle,battery,RRP,DUID,6.27185069,5.64466562,1664.51551623
+Trundle,battery,DUID,frozen_AMM,7.27323862,6.54591476,-132.57256774
+Trundle,battery,DUID,RRP,7.27323862,6.54591476,643.15843528
+Trundle,battery,DUID,DUID,7.27323862,6.54591476,3497.52422371
